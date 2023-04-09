@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1001,
+    "title": "Introduction to Calculus",
+    "description": "This course introduces the fundamental concepts of calculus, including limits, derivatives, and integrals. It is designed for students who have completed high school algebra and trigonometry.",
+    "category": "Mathematics",
+    "cover_image": "https://img.freepik.com/free-photo/close-up-still-life-hard-exams_23-2149314045.jpg?w=996&t=st=1680881244~exp=1680881844~hmac=27a94b856283df7411e527e1866b77f672b86264b4454aafd5f7d8fe39ab9915"
+  },
+  {
+    "id": 1002,
+    "title": "Introduction to Java Programming",
+    "description": "This course provides an introduction to programming using the Java programming language. It covers basic programming concepts such as variables, control structures, and methods.",
+    "category": "Computer Science",
+    "cover_image": "https://img.freepik.com/premium-photo/java-programming-code-abstract-technology-background_272306-149.jpg?w=1060"
+  },
+  {
+    "id": 1003,
+    "title": "Art History: From Ancient to Contemporary",
+    "description": "This course explores the history of art from ancient times to the present day. It covers major artistic movements and styles, as well as key artists and their works.",
+    "category": "Art",
+    "cover_image": "https://img.freepik.com/free-photo/beautiful-old-city-view_1417-1598.jpg?w=996&t=st=1680881303~exp=1680881903~hmac=840afc1a1d696ed9bf4bf83a31afc394fc8259773e7e880cab64149186dfe73a"
+  },
+  {
+    "id": 1004,
+    "title": "Intermediate Spanish Language and Culture",
+    "description": "This course is designed for students who have completed introductory-level Spanish language courses. It focuses on building proficiency in speaking, listening, reading, and writing, as well as deepening understanding of Hispanic cultures.",
+    "category": "Languages",
+    "cover_image": "https://img.freepik.com/free-photo/visa-application-composition-with-different-flags_23-2149117805.jpg?w=996&t=st=1680881342~exp=1680881942~hmac=6489cb54dd970191518d34d4ce9b71e293776d6d2e0a0bbf70d8f46e990de6cd"
+  },
+  {
+    "id": 1005,
+    "title": "Introduction to Psychology",
+    "description": "This course provides an introduction to the scientific study of human behavior and mental processes. It covers major topics such as perception, cognition, emotion, development, and social influence.",
+    "category": "Psychology",
+    "cover_image": "https://img.freepik.com/free-photo/green-leaf-with-word-it_1340-25352.jpg?w=996&t=st=1680881402~exp=1680882002~hmac=807942e1ecf16ce06cd372b41147361a9ba0399e8e3cb7f288bedbbd470469e7"
+  },
+  {
+    "id": 1006,
+    "title": "Introduction to Web Development",
+    "description": "This course introduces the basic concepts of web development, including HTML, CSS, and JavaScript. It covers creating static web pages, styling them with CSS, and adding interactivity with JavaScript.",
+    "category": "Computer Science",
+    "cover_image": "https://img.freepik.com/free-photo/focused-videographer-producer-working-movie-production-editing-film-design_482257-19397.jpg?w=1060&t=st=1680881432~exp=1680882032~hmac=8a99217bab317e5bf6f2712fba0c442d1226ab0380ef4441d97c60f9700f72af"
+  },
+  {
+    "id": 1007,
+    "title": "Introduction to Linguistics",
+    "description": "This course provides an introduction to the scientific study of language. It covers major topics such as phonetics, phonology, morphology, syntax, semantics, and pragmatics.",
+    "category": "Languages",
+    "cover_image": "https://img.freepik.com/free-photo/culture-word-wooden-background_23-2148227746.jpg?w=996&t=st=1680881462~exp=1680882062~hmac=94d5c416cb010fa7553508412a427c910abdb4c0700bbaba3c8522212c35b272"
+  },
+  {
+    "id": 1008,
+    "title": "Introduction to Astronomy",
+    "description": "This course provides an introduction to the study of the universe and its contents. It covers topics such as the solar system, stars, galaxies, and cosmology.",
+    "category": "Science",
+    "cover_image": "https://img.freepik.com/free-photo/space-view-with-planets_1048-2421.jpg?w=1060&t=st=1680881490~exp=1680882090~hmac=31394645335e9058464be57b35a81487cbf29d8c6daabfea7b91c1afef24f74a"
+  },
+  {
+    "id": 1009,
+    "title": "Introduction to Fashion Design",
+    "description": "This course introduces the fundamental concepts of fashion design, including drawing, pattern-making, and sewing.",
+    "category": "Art",
+    "cover_image": "https://img.freepik.com/free-photo/woman-creating-their-own-vision-board_23-2150270483.jpg?w=996&t=st=1680881526~exp=1680882126~hmac=292e114bc38f99ccb643d61f97d02d1ae82b958b8c588efc866b3de2830125e7"
+  }
+]
